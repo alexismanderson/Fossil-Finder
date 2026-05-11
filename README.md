@@ -31,6 +31,9 @@ This tool helps us to detect this mismatch in file extension and file signature 
 - Flags potentially mislabeled or suspicious files
 - Handles unreadable or inaccessible files with error logging
 
+## Test Files
+The Test_Files directory contains example files used to demonstrate Fossil Finder’s detection capabilities.
+
 ## How to Run
 - Run python3 main.py
 - Enter the folder you want scanned 
