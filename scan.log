@@ -1,0 +1,35 @@
+2026-05-10 17:37:11,224 - 🦴 INFO - Excavation started in: TestFiles
+2026-05-10 17:37:11,226 - 🦴 WARNING - Fossil mismatch: TestFiles/poster.png (labeled=png, actual=T-Rex (jpg))
+2026-05-10 17:37:11,226 - 🦴 WARNING - Fossil mismatch: TestFiles/totally_safe.exe (labeled=exe, actual=Stegosaurus (pdf))
+2026-05-10 17:37:11,227 - 🦴 WARNING - Fossil mismatch: TestFiles/environment.pdf (labeled=pdf, actual=Stegosaurus (pdf))
+2026-05-10 17:37:11,227 - 🦴 INFO - Excavation completed.
+2026-05-10 17:51:20,919 - 🦴 INFO - Excavation started in: TestFiles
+2026-05-10 17:51:20,921 - 🦴 WARNING - Fossil mismatch: TestFiles/poster.png (labeled=png, actual=jpg)
+2026-05-10 17:51:20,922 - 🦴 WARNING - Fossil mismatch: TestFiles/totally_safe.exe (labeled=exe, actual=pdf)
+2026-05-10 17:51:20,923 - 🦴 INFO - Verified fossil: TestFiles/environment.pdf
+2026-05-10 17:51:20,923 - 🦴 INFO - Excavation completed.
+2026-05-10 17:59:22,281 - 🦴 INFO - Excavation started in: TestFiles
+2026-05-10 17:59:22,283 - 🦴 WARNING - Fossil mismatch: TestFiles/poster.png (labeled=Triceratops (png), actual=T-Rex (jpg))
+2026-05-10 17:59:22,284 - 🦴 WARNING - Fossil mismatch: TestFiles/totally_safe.exe (labeled=Velociraptor (exe), actual=Stegosaurus (pdf))
+2026-05-10 17:59:22,285 - 🦴 INFO - Verified fossil: TestFiles/environment.pdf
+2026-05-10 17:59:22,285 - 🦴 INFO - Excavation completed.
+2026-05-10 22:24:47,014 - 🦴 INFO - Excavation started in: TestFiles
+2026-05-10 22:24:47,017 - 🦴 WARNING - Fossil mismatch: TestFiles/poster.png (labeled=Triceratops (png), actual=T-Rex (jpg))
+2026-05-10 22:24:47,018 - 🦴 WARNING - Fossil mismatch: TestFiles/totally_safe.exe (labeled=Velociraptor (exe), actual=Stegosaurus (pdf))
+2026-05-10 22:24:47,019 - 🦴 INFO - Verified fossil: TestFiles/environment.pdf
+2026-05-10 22:24:47,019 - 🦴 INFO - Excavation completed.
+2026-05-10 22:54:55,760 - 🦴 INFO - Excavation started in: TestFiles
+2026-05-10 22:54:55,762 - 🦴 WARNING - Fossil mismatch: TestFiles/poster.png (labeled=Triceratops (png), actual=T-Rex (jpg))
+2026-05-10 22:54:55,763 - 🦴 WARNING - Fossil mismatch: TestFiles/totally_safe.exe (labeled=Velociraptor (exe), actual=Stegosaurus (pdf))
+2026-05-10 22:54:55,764 - 🦴 INFO - Verified fossil: TestFiles/environment.pdf
+2026-05-10 22:54:55,764 - 🦴 INFO - Excavation completed.
+2026-05-11 10:28:23,064 - 🦴 INFO - Excavation started in: TestFiles
+2026-05-11 10:28:23,066 - 🦴 WARNING - Fossil mismatch: TestFiles/poster.png (labeled=Triceratops (png), actual=T-Rex (jpg))
+2026-05-11 10:28:23,067 - 🦴 WARNING - Fossil mismatch: TestFiles/totally_safe.exe (labeled=Velociraptor (exe), actual=Stegosaurus (pdf))
+2026-05-11 10:28:23,068 - 🦴 INFO - Verified fossil: TestFiles/environment.pdf
+2026-05-11 10:28:23,068 - 🦴 INFO - Excavation completed.
+2026-05-11 10:39:36,350 - 🦴 INFO - Excavation started in: TestFiles
+2026-05-11 10:39:36,353 - 🦴 WARNING - Fossil mismatch: TestFiles/poster.png (labeled=Triceratops (png), actual=T-Rex (jpg))
+2026-05-11 10:39:36,354 - 🦴 WARNING - Fossil mismatch: TestFiles/totally_safe.exe (labeled=Velociraptor (exe), actual=Stegosaurus (pdf))
+2026-05-11 10:39:36,355 - 🦴 INFO - Verified fossil: TestFiles/environment.pdf
+2026-05-11 10:39:36,355 - 🦴 INFO - Excavation completed.
